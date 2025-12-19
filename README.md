@@ -36,13 +36,9 @@ working on **real-world beginner projects**.
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asad&show_icons=true&theme=github_dark)
-
----
-
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/asad-antule-290639378 
+- 🔗 LinkedIn: https://www.linkedin.com/in/asad-antule-290639378
+- 📧 E-Mail: 2025.asad@isu.ac.in
 
 ---
 
